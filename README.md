@@ -1,4 +1,4 @@
-# Angry-Birds-simple-version
+# Angry-Birds-simple-version. This was made by Team of 2 for hacknight conducted by Zense (Development club @ IIITB) which was a one night hackathon
 ## Developed for Zense HacKnight 2K19
 
 ### Authors
