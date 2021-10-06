@@ -1,4 +1,11 @@
-# Angry-Birds-simple-version. This was made by Team of 2 for hacknight conducted by Zense (Development club @ IIITB) which was a one night hackathon
+# Angry-Birds-simple-version. 
+
+
+This was made by Team of 2 for hacknight conducted by Zense (Development club @ IIITB) which was a one night hackathon
+We implmented a simpler version of angry birds. We used OOPs, mechanics ( for real world like movements of objects).
+
+
+
 ## Developed for Zense HacKnight 2K19
 
 ### Authors
